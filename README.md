@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">I am someCodeGirl, a disabled, queer developer from occupied Shawandasse Tula (Shawanaki/Shawnee), 𐓏𐒰𐓓𐒰𐓓𐒷 𐒼𐓂𐓊𐒻 𐓆𐒻𐒿𐒷 𐓀𐒰^𐓓𐒰^(Osage) and Monongahela land.</h2>
+<h2 align="center">I am someCodeGirl (it/she), a disabled, queer developer from occupied Shawandasse Tula (Shawanaki/Shawnee), 𐓏𐒰𐓓𐒰𐓓𐒷 𐒼𐓂𐓊𐒻 𐓆𐒻𐒿𐒷 𐓀𐒰^𐓓𐒰^(Osage) and Monongahela land.</h2>
 
 ###
 

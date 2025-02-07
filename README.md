@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://cdn.discordapp.com/attachments/1306394065436409876/1322957479243550852/ellie_newyear_pfp.png?ex=67a77faa&is=67a62e2a&hm=d004b2b728454c34abf2628d5b9b1665ac4680ff6ed8acfcaa9521441796b2aa"/>
+  <img height="300" src="https://4vs8r5ztn3.ufs.sh/f/cC8f3XH57MPQzju3gYM34qEHVXfST29Fed6ZG7YycpgJjOIP"/>
 </div>
 
 

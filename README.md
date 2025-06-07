@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2>Hello, my name is Jinx. My pronouns are she/it.</h2>
-  <p>I am a white queer, non-binary individual who is chroniclly ill and disabled with a multitude of physical and mental health conditions. I am a developer, gamer, music lover, and all around nerd. I am also the founder of someCodeGirl Creative, a development and content creation orginization with a focus on invlusive, accessible, anti-fascist creations. My work is created on occupied Shawandasse Tula (Shawanaki/Shawnee), 𐓏𐒰𐓓𐒰𐓓𐒷 𐒼𐓂𐓊𐒻 𐓆𐒻𐒿𐒷 𐓀𐒰^𐓓𐒰^(Osage) and Monongahela land.</p>
+  <p>I am a white queer, non-binary individual who is chroniclly ill and disabled with a multitude of physical and mental health conditions. I am a developer, gamer, music lover, and all around nerd. I am also the founder of someCodeGirl Creative, a development and content creation orginization with a focus on inclusive, accessible, anti-fascist creations. My work is created on occupied Shawandasse Tula (Shawanaki/Shawnee), 𐓏𐒰𐓓𐒰𐓓𐒷 𐒼𐓂𐓊𐒻 𐓆𐒻𐒿𐒷 𐓀𐒰^𐓓𐒰^(Osage) and Monongahela land.</p>
   <p>My profile picture was created with a picrew image maker created by おいちぃ牛乳</p>
 </div>
 
